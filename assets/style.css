@@ -26,7 +26,6 @@ object-position: center center;
 border-radius: 10px;
 transition: 1s;
 }
-
 .img:hover {
 transform: scale(1.2);
 }
