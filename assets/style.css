@@ -1,0 +1,32 @@
+body{
+  background-image: url(./image/1667373151_2-celes-club-p-krasivii-fon-zima-pinterest-4.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  font-family: 'Arapey', serif;
+  font-family: 'Montserrat', sans-serif;
+ font-family: 'Mukta', sans-serif;
+ font-family: 'Rubik Gemstones', cursive;
+ color: rgb(96, 131, 157);
+  box-sizing: border-box;
+  width: 1200px;
+  text-align: center;
+  margin: auto;
+  font-size: x-large;
+}
+.section{
+  text-align: center;
+  position: relative;
+}
+.img {
+width: 200px;
+height: 300px;;
+margin: 10px;
+object-fit: cover;
+object-position: center center;
+border-radius: 10px;
+transition: 1s;
+}
+
+.img:hover {
+transform: scale(1.2);
+}
